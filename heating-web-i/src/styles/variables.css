@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap');
+ 
+:root {
+  --bg:           #0A0F0D;
+  --surface:      #111A15;
+  --card:         #162019;
+  --border:       #1E3024;
+  --accent:       #00E87A;
+  --accent-dim:   #00B85F;
+  --accent-glow:  rgba(0, 232, 122, 0.12);
+  --text:         #E8F2EB;
+  --muted:        #6B8F74;
+  --warn:         #F5A623;
+  --danger:       #FF5C5C;
+ 
+  --serif: 'DM Serif Display', serif;
+  --mono:  'DM Mono', monospace;
+  --sans:  'Outfit', sans-serif;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap');
+ 
+:root {
+  --bg:          #0A0F0D;
+  --surface:     #111A15;
+  --card:        #162019;
+  --border:      #1E3024;
+  --accent:      #00E87A;
+  --accent-dim:  #00B85F;
+  --accent-glow: rgba(0, 232, 122, 0.12);
+  --text:        #E8F2EB;
+  --muted:       #6B8F74;
+  --warn:        #F5A623;
+  --danger:      #FF5C5C;
+ 
+  --serif: 'DM Serif Display', serif;
+  --mono:  'DM Mono', monospace;
+  --sans:  'Outfit', sans-serif;
+}
